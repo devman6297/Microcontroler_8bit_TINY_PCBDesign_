@@ -92,10 +92,30 @@ Exposes I2C lines and button signal for external devices or debugging.
 LED Header (H4):
         Provides access to RGB LED control signals and power lines (+VIN, GND).
 
+        
+
+
+
+
+
+
+
+
+  SChematic--->
+
 
 ![image alt](https://github.com/devman6297/Microcontroler_8bit_TINY_PCBDesign_/blob/d914bda468b8a599d19e3b819bfd3926f88c82dc/Schematic_Node-MCU_2025-01-07.png)
 
 
 
 
-![image alt]()
+
+
+
+
+
+ 3D View--->
+
+
+
+![image alt](https://github.com/devman6297/Microcontroler_8bit_TINY_PCBDesign_/blob/80d4cca219521ba677ac25446ab46990150bf7ff/Screenshot%202025-01-07%20185422.png)
